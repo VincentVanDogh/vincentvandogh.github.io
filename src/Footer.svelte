@@ -2,7 +2,7 @@
 
 <footer>
   <ul>
-    <li>Fabecook</li>
+    <li>Fabebook</li>
     <li>Github</li>
     <li>LinkedId</li>
   </ul>
