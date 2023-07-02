@@ -8,4 +8,8 @@
   </ul>
 </footer>
 
-<style></style>
+<style>
+  footer {
+    background: var(--bg-footer);
+  }
+</style>
